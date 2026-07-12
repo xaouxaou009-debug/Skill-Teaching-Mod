@@ -1,0 +1,14 @@
+{
+  "Name": "Xaou_JianghuRelations",
+  "DisplayName": "Xaou - NPC สำนักอื่น",
+  "GameVersion": 1.268,
+  "Version": 1.0,
+  "Desc": "ม็อดแยกสำหรับดูรายชื่อ NPC สำนักอื่น เปิดใจ และเพิ่มความสัมพันธ์ผ่านหน้าต่าง FairyGUI ของ Xaou",
+  "Author": "xaou",
+  "UIPackage": "UI/XaouUI",
+  "ID": "970101214",
+  "Tags": ["NPC", "Relation", "Function", "Usability", "Mobile"],
+  "IncreasedDesc": "เพิ่มหน้าต่างจัดการความสัมพันธ์ NPC สำนักอื่นแบบแยกจากม็อดหลัก",
+  "IsInsideCreat": true,
+  "Previews": []
+}
